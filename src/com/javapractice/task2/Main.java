@@ -1,4 +1,5 @@
 package com.javapractice.task2;
+import java.util.Scanner;
 /*
 Реализуй метод main(String[]), который:
 
